@@ -1,6 +1,6 @@
 # Hi, I'm Vlad 👋
 
-I’m a software developer focused on building practical, user-friendly solutions and continuously learning new technologies.
+I'm a software developer focused on building practical, user-friendly solutions and continuously learning new technologies.
 
 ## About me
 - 💻 Interested in software engineering, web development, and product thinking
@@ -9,9 +9,11 @@ I’m a software developer focused on building practical, user-friendly solution
 - 🚀 Enjoy turning ideas into working solutions
 
 ## Tech stack
-- Languages: JavaScript, TypeScript, Python, C#, SQL
-- Frontend: React, Next.js, HTML, CSS
-- Backend: Node.js, .NET, REST APIs
+- Languages: JavaScript, TypeScript, Python, SQL
+- Frontend: React, Next.js, Tailwind CSS, SCSS, Redux, HTML, CSS
+- Backend: Node.js, Express.js, NestJS, REST APIs
+- Databases: PostgreSQL, MongoDB
+- Testing: Jest
 - Tools: Git, GitHub, Docker, VS Code
 
 ## Projects
@@ -25,4 +27,4 @@ I’m a software developer focused on building practical, user-friendly solution
 - GitHub: https://github.com/VladBovda
 - Email: your.email@example.com
 
-> “Code is not just about solving problems — it’s about creating value.”
+> "Code is not just about solving problems — it's about creating value."
