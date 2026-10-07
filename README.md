@@ -20,11 +20,8 @@ I'm a software developer focused on building practical, user-friendly solutions 
 - Building useful apps and prototypes that solve real-world problems
 - Exploring clean architecture, scalable frontend/backend patterns, and developer productivity
 
-## GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladBovda&show_icons=true&theme=radical)
-
 ## Connect
 - GitHub: https://github.com/VladBovda
-- Email: your.email@example.com
+- Email: lsd15011991@gmail.com
+- LinkedIn: https://www.linkedin.com/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%B1%D0%BE%D0%B2%D0%B4%D0%B0-ba2135301
 
-> "Code is not just about solving problems — it's about creating value."
